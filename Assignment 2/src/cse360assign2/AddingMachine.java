@@ -1,6 +1,6 @@
 /**
  * @author Jacob Cohen
- * CSE 360
+ * CSE360 85141
  * Assignment #2
  * contains class AddingMachine, to be used to add and subtract numbers
  */
